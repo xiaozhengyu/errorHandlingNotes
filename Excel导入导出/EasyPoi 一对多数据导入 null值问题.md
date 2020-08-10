@@ -1,4 +1,4 @@
-# EasyPio 一对多数据导入 null值问题
+# EasyP0i 一对多数据导入 null值问题
 
 ---
 
@@ -119,7 +119,7 @@ public Message importQuestion(MultipartFile excel) throws Exception {
 
 ### 问题解决
 
-查看了EasyPio的官方文档以后发现，一切的问题出在源代码中的这条语句：
+查看了EasyPoi的官方文档以后发现，一切的问题出在源代码中的这条语句：
 
 ```java
 // 指定表头所占的行数
