@@ -118,7 +118,7 @@ public class ArrayList<E> extends AbstractList<E> implements List<E>, RandomAcce
 
     检查集合是否发生“并发修改”。所有并发修改，指的是除了当前迭代器，外界也对集合进行了修改。由于 ArrayList 没有对并发访问进行控制，因此并发修改将使得当前迭代器后续的行为变得不可控。
 
-    就 Itr 而言，它通过比较 modCount 和 expectedModCount 来判断是否还有元素尚未遍历。
+    就 Itr  而言，它通过比较 modCount 和 expectedModCount 来判断是否还有元素尚未遍历。
 
     ```java
     final void checkForComodification() {
@@ -127,9 +127,9 @@ public class ArrayList<E> extends AbstractList<E> implements List<E>, RandomAcce
     }
     ```
 
-- **hasNext()**
+- **hasNext()**1111
 
-    判断是否还有元素尚未遍历。就 Itr 而言，它通过比较 cusor 和 size 来判断是否还有元素尚未遍历。
+    判断是否还有元素尚未遍历。就 Itr 而言，它通过<font color = red>**比较 cusor 和 size 是否相等**</font>来判断是否还有元素尚未遍历。
 
     ```java
     public boolean hasNext() {
@@ -186,7 +186,7 @@ public class ArrayList<E> extends AbstractList<E> implements List<E>, RandomAcce
 | "0".equals(s) | hashNext(): true<br />    cusor = 0,size = 4<br /><br />next(): “0”<br />    checkForComodification(): OK<br />        modCount = 4,expectedModCount = 4<br />    cusor = 1<br /><br />”0”.equals(“0”): true<br />    remove(): OK<br />        modCount = 5,size = 3<br /><br />hashNext(): true<br />    cusor = 1,size = 3<br /><br />**next():  Exception<br />    checkForComodification(): Exception<br />        modCount = 5,expectedModCount = 4<br />** | java.util.ConcurrentModificationException |
 | "1".equals(s) | 略                                                           | java.util.ConcurrentModificationException |
 | "2".equals(s) | hashNext(): true<br />    cusor = 2,size = 4<br /><br />next(): “2”<br />    checkForComodification(): OK<br />        modCount = 4,expectedModCount = 4<br />    cusor = 3<br /><br />”2”.equals(“2”): true<br />    remove(): OK<br />        modCount = 5,size = 3<br /><br />**hashNext(): false<br />    cusor = 3,size = 3**<br /> |                 正常执行                  |
-| "3".equals(s) | 略                                                           | java.util.ConcurrentModificationException |
+| "3".equals(s) | hashNext(): true<br />    cusor = 3,size = 4<br /><br />next(): “3”<br />    checkForComodification(): OK<br />        modCount = 4,expectedModCount = 4<br />    cusor = 4<br /><br />”3”.equals(“3”): true<br />    remove(): OK<br />        modCount = 5,size = 3<br /><br />hashNext(): true<br />    cusor = 4,size = 3<br /><br />**next():  Exception<br />    checkForComodification(): Exception<br />        modCount = 5,expectedModCount = 4<br />** | java.util.ConcurrentModificationException |
 
 上面4个条件语句都在迭代器外部对集合进行了结构性修改，不同之处在于，"2".equals(s) 条件语句对集合进行结构行修改以后，就停止了在迭代器中修改集合，这就避免了冲突的发生，所以没有抛出异常。
 
