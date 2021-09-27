@@ -15,3 +15,13 @@ FIle → Settings → Editor → General → AutoImport：
 ### 3. @author 、@date
 
 ![image-20200827095921000](markdown/IDEA好用的配置.assets/image-20200827095921000.png)
+
+```
+/**
+ * ${DESCRIPTION}
+ *
+ * @author xzy
+ * @date ${DATE}${TIME}
+ */
+```
+
