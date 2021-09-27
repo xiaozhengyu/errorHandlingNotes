@@ -25,3 +25,15 @@ FIle → Settings → Editor → General → AutoImport：
  */
 ```
 
+
+
+升级用法：
+
+① 为不同的主题设置不同的模板
+
+![image-20210927103633472](markdown/IDEA好用的配置.assets/image-20210927103633472.png)
+
+② 使用快捷键（Ctrl + `）快速切换模板
+
+![image-20210927103752007](markdown/IDEA好用的配置.assets/image-20210927103752007.png)
+
