@@ -37,3 +37,16 @@ FIle → Settings → Editor → General → AutoImport：
 
 ![image-20210927103752007](markdown/IDEA好用的配置.assets/image-20210927103752007.png)
 
+### 4. mybatis-mapper 创建模板
+
+![img](markdown/IDEA好用的配置.assets/20210312103955459.png)
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace = "">
+ 
+</mapper>
+```
+
