@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f614f69-8033-48c3-879a-8577eda17afd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Intellij IDEA/IDEA好用的快捷键.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intellij IDEA/IDEA好用的配置.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intellij IDEA/IDEA快捷键.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intellij IDEA/IDEA文件比较.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intellij IDEA/markdown/IDEA好用的配置.assets/20210312103955459.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intellij IDEA/markdown/IDEA好用的配置.assets/image-20200810223357974.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intellij IDEA/markdown/IDEA好用的配置.assets/image-20200810223700634.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intellij IDEA/markdown/IDEA好用的配置.assets/image-20200810223737486.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intellij IDEA/markdown/IDEA好用的配置.assets/image-20200827095921000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intellij IDEA/markdown/IDEA好用的配置.assets/image-20210927103633472.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intellij IDEA/markdown/IDEA好用的配置.assets/image-20210927103752007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intellij IDEA/markdown/IDEA文件比较.assets/image-20200922095754446.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intellij IDEA/markdown/IDEA文件比较.assets/image-20200922095831338.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intellij IDEA/markdown/IDEA文件比较.assets/image-20200922100001325.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intellij IDEA/markdown/设置IDEA文件树显示的文件类型.assets/image-20210118111817877.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intellij IDEA/指定jar包名称.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intellij IDEA/设置IDEA文件树显示的文件类型.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PowerDesigner/PowerDesigner导入SQL文件.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PowerDesigner/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Windows/Win10 安装 Windows Terminal.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Windows/markdown/Win10 安装 Windows Terminal.assets/image-20210923215725640.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Windows/markdown/Win10 安装 Windows Terminal.assets/image-20210923220610657.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Windows/markdown/Win10 安装 Windows Terminal.assets/image-20210923220706220.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Windows/markdown/Win10 安装 Windows Terminal.assets/image-20210923223051207.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Windows/markdown/凭证管理器.assets/image-20200913205428526.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Windows/凭证管理器.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\MavenRepository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Program Files (x86)/Maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Program Files (x86)\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Aot5lLDFgS3q7UccWFfo4CZUsS" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f614f69-8033-48c3-879a-8577eda17afd" name="Default Changelist" comment="" />
+      <created>1655687585242</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655687585242</updated>
+      <workItem from="1655687593150" duration="3000" />
+    </task>
+    <servers />
+  </component>
+</project>
