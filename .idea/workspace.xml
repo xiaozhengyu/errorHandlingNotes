@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f614f69-8033-48c3-879a-8577eda17afd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Intellij IDEA/IDEA好用的快捷键.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intellij IDEA/IDEA好用的配置.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intellij IDEA/IDEA快捷键.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intellij IDEA/IDEA文件比较.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intellij IDEA/markdown/IDEA好用的配置.assets/20210312103955459.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intellij IDEA/markdown/IDEA好用的配置.assets/image-20200810223357974.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intellij IDEA/markdown/IDEA好用的配置.assets/image-20200810223700634.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intellij IDEA/markdown/IDEA好用的配置.assets/image-20200810223737486.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intellij IDEA/markdown/IDEA好用的配置.assets/image-20200827095921000.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intellij IDEA/markdown/IDEA好用的配置.assets/image-20210927103633472.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intellij IDEA/markdown/IDEA好用的配置.assets/image-20210927103752007.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intellij IDEA/markdown/IDEA文件比较.assets/image-20200922095754446.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intellij IDEA/markdown/IDEA文件比较.assets/image-20200922095831338.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intellij IDEA/markdown/IDEA文件比较.assets/image-20200922100001325.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intellij IDEA/markdown/设置IDEA文件树显示的文件类型.assets/image-20210118111817877.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intellij IDEA/指定jar包名称.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intellij IDEA/设置IDEA文件树显示的文件类型.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PowerDesigner/PowerDesigner导入SQL文件.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PowerDesigner/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Windows/Win10 安装 Windows Terminal.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Windows/markdown/Win10 安装 Windows Terminal.assets/image-20210923215725640.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Windows/markdown/Win10 安装 Windows Terminal.assets/image-20210923220610657.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Windows/markdown/Win10 安装 Windows Terminal.assets/image-20210923220706220.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Windows/markdown/Win10 安装 Windows Terminal.assets/image-20210923223051207.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Windows/markdown/凭证管理器.assets/image-20200913205428526.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Windows/凭证管理器.md" beforeDir="false" />
-    </list>
+    <list default="true" id="8f614f69-8033-48c3-879a-8577eda17afd" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,6 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1655687585242</updated>
       <workItem from="1655687593150" duration="3000" />
+      <workItem from="1655707928616" duration="4000" />
     </task>
     <servers />
   </component>
